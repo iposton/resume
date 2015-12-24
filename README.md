@@ -14,6 +14,8 @@ I was able to host this resume with my free github account using gh-pages follow
   <li>to see your site live got to githubusername.github.io/repo-name/</li>
 </ol>
 
+see my code - https://github.com/iposton/resume/tree/gh-pages
+
 <hr>
 
 ### References 
