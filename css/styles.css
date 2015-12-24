@@ -199,6 +199,10 @@ img {
 
 }
 
+#skills h3 {
+  margin-bottom: 0;
+}
+
 .padding-cell,
 .skills-zone {
 	padding-left: 0;
